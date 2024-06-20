@@ -1,4 +1,6 @@
-A collection of classic games implemented in Python. In this repository, you'll find timeless games :
+# Python Games
+
+## A collection of classic games implemented in Python. In this repository, you'll find timeless games
 
 • Hangman : It's a word guessing game where players try to guess a hidden word letter by letter. Each incorrect guess brings the player closer to being "hanged" until they either guess the word correctly or run out of guesses.
 
